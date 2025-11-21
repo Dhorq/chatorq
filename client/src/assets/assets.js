@@ -25,7 +25,6 @@ const assets = {
   avatar_icon,
   gallery_icon,
   help_icon,
-  logo_big,
   logo_big_chatorq,
   logo,
   search_icon,
